@@ -1,0 +1,13 @@
+.type-icon {
+  color: #757575;
+  margin-right: 5px;
+}
+
+.center-container {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  padding: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
